@@ -15,7 +15,7 @@ function saludo($nombre) {
     echo "Hola, $nombre!";
 }
 saludo("soy Eduardo");
-?>```
+?>
 
 **Lista ordenada**
 
