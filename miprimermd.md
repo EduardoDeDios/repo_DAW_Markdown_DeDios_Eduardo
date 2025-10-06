@@ -8,14 +8,16 @@
 
 A continuación un párrafo para resaltar que está escrito en código:
 
-`php
+```php
 <?php
 // Este es un trozo de código en PHP
 function saludo($nombre) {
     echo "Hola, $nombre!";
 }
 saludo("soy Eduardo");
-?>`
+?>```
+
+**Lista ordenada**
 
 1. Primer item de lista ordenada
 
@@ -23,6 +25,7 @@ saludo("soy Eduardo");
 
 3. Tercer item lista ordenada
 
+**Lista desordenada**
 
 - Primer item lista desordenada
 
