@@ -16,6 +16,7 @@ function saludo($nombre) {
 }
 saludo("soy Eduardo");
 ?>
+```
 
 **Lista ordenada**
 
