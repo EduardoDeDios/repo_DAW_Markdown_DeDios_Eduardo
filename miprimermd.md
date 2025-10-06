@@ -7,14 +7,15 @@
 *Esto es un párrafo en cursiva*
 
 A continuación un párrafo para resaltar que está escrito en código:
-```php
+
+`php
 <?php
 // Este es un trozo de código en PHP
 function saludo($nombre) {
     echo "Hola, $nombre!";
 }
 saludo("soy Eduardo");
-?>```
+?>`
 
 1. Primer item de lista ordenada
 
